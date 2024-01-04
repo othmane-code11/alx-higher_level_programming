@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author - Godswill Kalu
 
 for d1 in range(0, 10):
     for d2 in range(d1 + 1, 10):
